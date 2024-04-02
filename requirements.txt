@@ -1,0 +1,6 @@
+aiogram
+python-dotenv
+asyncio
+sqlalchemy
+aiosqlite
+asyncpg
